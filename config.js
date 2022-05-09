@@ -1,0 +1,6 @@
+module.exports = {
+    PORT: 3000,
+    PUB_KEY_X: '8f588445e90781ca7b0d878be9b8c6b49035e963110baecf25ced6178fe4c840',
+    PUB_KEY_Y: 'cfaf8e051ac5ed2610de6beb376edd138cff060e60e8e123ebe40a0c7587c7b6',
+    PRI_KEY: '553471dc8f85057bdba858faa5569f24808d2ffc42691ca158c84247d35e614a',
+}
